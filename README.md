@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nayan-Programmer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, Sql
-- 💞️ I’m looking to collaborate on echooai.in
+- 💞️ I’m looking to collaborate on echooai.co
+  
 - 📫 How to reach me by email - nayangamer2014@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My age is only 12 
