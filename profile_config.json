@@ -1,21 +1,20 @@
 {
-  "name": "Nayan",
-  "role": "AI Developer & Programmer",
-  "github": "Nayan-Programmer",
-  "email": "nayan@echooai.co",
-  "location": "India",
-  "company": "EchooAI",
-  "pitch": "Building the future with AI and code.",
-  "skills": [
-    "React",
-    "Python",
-    "JavaScript",
-    "AI",
-    "TypeScript"
+  "name": "YOUR NAME",
+  "role": "CREATIVE DEVELOPER",
+  "github": "YOUR_USERNAME",
+  "email": "you@example.com",
+  "location": "YOUR CITY",
+  "company": "YOUR COMPANY",
+  "pitch": "I make useful things with code and curiosity.",
+  "skills": ["React", "TypeScript", "Python", "Figma", "Blender", "TensorFlow"],
+  "hobbies": ["Photography", "Gaming", "Offline Adventures"],
+  "links": {"linkedin": "https://www.linkedin.com/in/YOUR_USERNAME"},
+  "stats": {"repos": 12, "stars": 840, "streak": 54},
+  "repos": [
+    {"name": "your-repo-one", "stars": 184},
+    {"name": "your-repo-two", "stars": 133},
+    {"name": "your-repo-three", "stars": 89},
+    {"name": "your-repo-four", "stars": 61}
   ],
-  "hobbies": [
-    "Gaming",
-    "Coding",
-    "Anime"
-  ]
+  "data_notice": "All stats and repositories are illustrative; replace before publishing."
 }
