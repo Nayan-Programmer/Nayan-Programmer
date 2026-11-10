@@ -1,0 +1,21 @@
+{
+  "name": "Nayan",
+  "role": "AI Developer & Programmer",
+  "github": "Nayan-Programmer",
+  "email": "nayan@echooai.co",
+  "location": "India",
+  "company": "EchooAI",
+  "pitch": "Building the future with AI and code.",
+  "skills": [
+    "React",
+    "Python",
+    "JavaScript",
+    "AI",
+    "TypeScript"
+  ],
+  "hobbies": [
+    "Gaming",
+    "Coding",
+    "Anime"
+  ]
+}
