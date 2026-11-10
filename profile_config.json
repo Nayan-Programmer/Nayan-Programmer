@@ -1,20 +1,25 @@
 {
   "name": "Nayan",
-  "role": "CREATIVE DEVELOPER",
-  "github": "YOUR_USERNAME",
-  "email": "you@example.com",
-  "location": "YOUR CITY",
-  "company": "YOUR COMPANY",
-  "pitch": "I make useful things with code and curiosity.",
-  "skills": ["React", "TypeScript", "Python", "Figma", "Blender", "TensorFlow"],
-  "hobbies": ["Photography", "Gaming", "Offline Adventures"],
-  "links": {"linkedin": "https://www.linkedin.com/in/YOUR_USERNAME"},
-  "stats": {"repos": 12, "stars": 840, "streak": 54},
-  "repos": [
-    {"name": "your-repo-one", "stars": 184},
-    {"name": "your-repo-two", "stars": 133},
-    {"name": "your-repo-three", "stars": 89},
-    {"name": "your-repo-four", "stars": 61}
+  "role": "Founder of EchooAI",
+  "github": "Nayan-Programmer",
+  "email": "",
+  "location": "LOCATION: CLASSIFIED",
+  "company": "EchooAI",
+  "pitch": "Private repos. Public ambition. Something new is coming.",
+  "status": "BUILDING IN STEALTH MODE",
+  "role_lines": [
+    "FOUNDER OF ECHOOAI",
+    "BUILDING IN STEALTH MODE",
+    "SOMETHING NEW IS COMING"
   ],
-  "data_notice": "All stats and repositories are illustrative; replace before publishing."
+  "skills": [],
+  "hobbies": [
+    "STEALTH BUILDS",
+    "AI EXPLORATION",
+    "FUTURE IDEAS"
+  ],
+  "links": {},
+  "stats": {},
+  "repos": [],
+  "data_notice": "No repository counts, stars, timelines, location, or contact information have been invented. Tech icons represent an illustrative, editable stack."
 }
